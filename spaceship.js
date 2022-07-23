@@ -77,6 +77,7 @@ class Spaceship {
         this.applyForce(friction);
         
         
+        
     }
   }
   
